@@ -6,3 +6,4 @@ src-git telephony https://git.openwrt.org/feed/telephony.git
 #src-git targets https://github.com/openwrt/targets.git
 #src-git oldpackages https://github.com/openwrt/packages
 #src-link custom /usr/src/openwrt/custom-feed
+src-git oldpackages https://github.com/koushiyu/5g-lede
